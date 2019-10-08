@@ -2,6 +2,8 @@
 
 A port of emacs Blue Mood theme's colors for [Conemu](https://conemu.github.io) and [cmder](https://cmder.net).
 
+![Screenshot](https://raw.githubusercontent.com/blue-mood/blue-mood-everything/master/screenshots/conemu-screenshot.png)
+
 ## Activation
 
 You have to manually modify the ConEmu config file.
